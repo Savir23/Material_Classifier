@@ -1,0 +1,15 @@
+numpy
+pandas
+requests
+librosa
+scikit-learn
+joblib
+supabase
+python-dotenv
+scipy
+ffmpeg-python
+pydub
+tensorflow
+tensorflow-lite
+seaborn
+matplotlib
